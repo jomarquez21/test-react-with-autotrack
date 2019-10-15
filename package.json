@@ -1,10 +1,12 @@
 {
-  "name": "test-autotrack",
+  "name": "test-react-with-autotrack",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "autotrack": "^2.4.1",
     "react": "^16.10.2",
     "react-dom": "^16.10.2",
+    "react-router-dom": "^5.1.2",
     "react-scripts": "3.2.0"
   },
   "scripts": {
